@@ -4,7 +4,7 @@ Predict crop yields using machine learning on environmental, agricultural, and c
 
 ---
 
-<!-- ## Features
+## Features
 
 - Data ingestion from agricultural and climate datasets  
 - Preprocessing: feature engineering, handling missing values, scaling  
@@ -23,4 +23,4 @@ Predict crop yields using machine learning on environmental, agricultural, and c
   - `matplotlib`, `seaborn`  
   - `sklearn`
   - `xgboost` 
-  - `lightgbm` -->
+  - `lightgbm` 
