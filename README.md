@@ -1,10 +1,10 @@
 # Crop Yield Prediction
 
-Predict crop yields using machine learning on environmental, agricultural, and climate data. Includes data cleaning, exploration, model training, evaluation, and visualization — all in a Jupyter Notebook.
+Predict crop yields using machine learning on environmental, agricultural, and climate data. Includes data cleaning, exploration, model training, evaluation, and visualization.
 
 ---
 
-## Features
+<!-- ## Features
 
 - Data ingestion from agricultural and climate datasets  
 - Preprocessing: feature engineering, handling missing values, scaling  
@@ -23,4 +23,4 @@ Predict crop yields using machine learning on environmental, agricultural, and c
   - `matplotlib`, `seaborn`  
   - `sklearn`
   - `xgboost` 
-  - `lightgbm`
+  - `lightgbm` -->
