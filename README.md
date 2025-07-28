@@ -21,4 +21,6 @@ Predict crop yields using machine learning on environmental, agricultural, and c
 - **Libraries**:
   - `pandas`, `numpy`, `scikit-learn`  
   - `matplotlib`, `seaborn`  
+  - `sklearn`
   - `xgboost` 
+  - `lightgbm`
